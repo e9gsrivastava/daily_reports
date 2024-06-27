@@ -1,0 +1,14 @@
+logging
+glob
+os
+re
+time
+datetime
+timezone
+multiprocessing
+pytz
+requests
+retrying==1.3.4
+tablib==3.6.1
+openpyxl==3.0.9
+
