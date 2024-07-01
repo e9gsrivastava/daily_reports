@@ -1,3 +1,7 @@
+"""
+This ensures the right files are downloaded in the right folder
+"""
+
 import csv
 import gzip
 import os

@@ -1,3 +1,7 @@
+"""
+This script is used to download the caiso reports
+"""
+
 import glob
 import logging
 import multiprocessing
